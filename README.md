@@ -6,9 +6,13 @@ O usuário também informa uma composição inicial da carteira para que seja fe
 
 Assim é calculdo o Índice Sharpe considerando o risco livre como zero neste caso, já que o foco estará na comparação de carteiras.
 ![image](https://github.com/augustorvasques/TeoriaPorfolioMarkowitz/assets/166548437/f359dc32-8684-45c5-bdc3-e5a3f92b832f)
+
 em que:
+
 Rp é a rentabilidade do portfólio,
+
 Rf é o retorno livre de risco a ser considerado,
+
 σp é o risco que o cálculo foi indicado acima.
 
 Posteriormente é definida uma função que cria aleatoriamente pesos para os ativos informados e faz novos cálculos do risco e retorno destes, obtendo também o Índice Sharpe.
