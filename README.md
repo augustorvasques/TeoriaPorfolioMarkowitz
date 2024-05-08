@@ -26,6 +26,8 @@ da carteira atual informada, mas com um risco igual ou menor. Por fim, caso exis
 para mostrar a diferença dentre a carteira atual e essa com melhor desempenho considerando o risco máximo = risco atual, além de uma tabela com as 3 carteiras: atual, mais eficiente
 com risco limitado, e a mais eficiente segundo o índice sharpe.
 
+** Simulação
+
 No caso da simulação feita para efeitos de teste foi considerada essa primeira composição como se fosse a carteira atual:
 
 ![image](https://github.com/augustorvasques/TeoriaPorfolioMarkowitz/assets/166548437/a65ef22e-de1f-4157-8a1d-1e04798242e5)
